@@ -65,12 +65,12 @@ Technical portion of class:
 
 More resources:
 ==============
-** [Datawrapper Academy](https://academy.datawrapper.de/) has tutorials and chart forms that you can explore without needing to know how to code at all.
-** Here is a [basic command line tutorial](https://www.davidbaumgold.com/tutorials/command-line/), which is where you should start if the idea of talking to your computer was intriguing to you.
-** Do you want to just look at weird/cool datasets? [Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) is great for that.
-** Also, Google lets you do [dataset searches](https://datasetsearch.research.google.com/).
-
-** Mimi Onuoha wrote a very useful blog post about [collecting data responsibly](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p).
-** This is a great ProPublica guide for [bulletproofing your data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md).
-
-Ask me questions/keep in touch: naush dot h at protonmail dot com.
+** [Datawrapper Academy](https://academy.datawrapper.de/) has tutorials and chart forms that you can explore without needing to know how to code at all.  
+** Here is a [basic command line tutorial](https://www.davidbaumgold.com/tutorials/command-line/), which is where you should start if the idea of talking to your computer was intriguing to you.  
+** Do you want to just look at weird/cool datasets? [Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) is great for that.  
+** Also, Google lets you do [dataset searches](https://datasetsearch.research.google.com/).  
+  
+** Mimi Onuoha wrote a very useful blog post about [collecting data responsibly](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p).  
+** This is a great ProPublica guide for [bulletproofing your data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md).  
+  
+Ask me questions/keep in touch: naush dot h at protonmail dot com.  
