@@ -47,7 +47,7 @@ Technical portion of class:
 
 13. What we could do from here is just chart these numbers and with some explanatory text, that would be publishable. But, I want us to consider one more aspect of this situation.
 
-14. In our repo, download the file called 'UN_refugees_Admissions.xlsx' and take a look at the PDF here: https://data2.unhcr.org/en/documents/details/50123. Chris' story mentions that "vast numbers [of the Karen people] remain in refugee camps in Thailand" -- I wanted to see if we could consider this in our numbers too. Luckily, the UN provides (some) data.
+14. In our repo, download the file called 'UN_refugees_Admissions.xlsx' and take a look at [the PDF here](https://data2.unhcr.org/en/documents/details/50123). Chris' story mentions that "vast numbers [of the Karen people] remain in refugee camps in Thailand" -- I wanted to see if we could consider this in our numbers too. Luckily, the UN provides (some) data.
 
 ***Don't forget that documents are/have data, too!***
 
