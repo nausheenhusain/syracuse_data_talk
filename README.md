@@ -2,13 +2,13 @@ Before class:
 =============
 
 1. Read the following news pieces:
-	> The Marshall Project: https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons
-	> South Side Weekly: https://southsideweekly.com/chivaxbot/, including the bot: https://twitter.com/ChiVaxBot
+	* The Marshall Project: https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons
+	* South Side Weekly: https://southsideweekly.com/chivaxbot/, including the bot: https://twitter.com/ChiVaxBot
 
 2. Consider the following questions as you're reading:
-	> What datasets were needed to write this piece/bulid this bot?
-	> What presentation and design decisions were made for each of these projects?
-	> As a reader, what appeals to you about the way these datasets are presented? What do you dislike?
+	* What datasets were needed to write this piece/bulid this bot?
+	* What presentation and design decisions were made for each of these projects?
+	* As a reader, what appeals to you about the way these datasets are presented? What do you dislike?
 
 3. Read this piece from The Daily Orange: http://dailyorange.com/2021/03/karen-refugees-syracuse-rally-justice-recognition/
 
