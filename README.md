@@ -8,7 +8,7 @@ Before class:
 	* South Side Weekly's [ChiVaxBot](https://southsideweekly.com/chivaxbot/) explanation; the bot is [here](https://twitter.com/ChiVaxBot) 
 
 3. Consider the following questions as you're reading:
-	* What datasets were needed to write this piece/bulid this bot?
+	* What datasets did the journalists working on these pieces need to obtain to write this piece/build this bot?
 	* What presentation and design decisions were made for each of these projects?
 	* As a reader, what appeals to you about the way these datasets are presented? What do you dislike?
 
@@ -51,7 +51,7 @@ Technical portion of class:
 
 14. In our repo, download the file called 'UN_refugees_Admissions.xlsx' and take a look at [the PDF here](https://data2.unhcr.org/en/documents/details/50123). Chris' story mentions that "vast numbers [of the Karen people] remain in refugee camps in Thailand" -- I wanted to see if we could consider this in our numbers too. Luckily, the UN provides (some) data in PDFs, which I compiled for us beforehand.
 
-***Don't forget that documents are/have data, too!***
+	***Don't forget that documents are/have data, too!***
 
 15. 'UN_refugees_Admissions.xlsx' shortens our range of data to just 2013 to 2020, so that it remains consistent with the refugee camp data I compiled. This is the data we'll chart.
 
