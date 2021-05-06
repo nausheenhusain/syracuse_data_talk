@@ -70,7 +70,7 @@ More resources:
 ** Do you want to just look at weird/cool datasets? [Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) is great for that.  
 ** Also, Google lets you do [dataset searches](https://datasetsearch.research.google.com/).  
   
-** Mimi Onuoha wrote a very useful blog post about [collecting data responsibly](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p).  
+** Mimi Onuoha wrote a very useful blog post about [collecting data responsibly](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p), and here is her larger art piece about [missing datasets](https://mimionuoha.com/what-is-missing).  
 ** This is a great ProPublica guide for [bulletproofing your data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md).  
   
 Ask me questions/keep in touch: naush dot h at protonmail dot com.  
