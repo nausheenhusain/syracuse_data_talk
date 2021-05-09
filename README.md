@@ -27,9 +27,11 @@ Technical portion of class:
 
 2. On the left side of the screen, it will give you some options. Choose 'Departures' for View, 2003-2021 for Year, 'Custom selection' then 'Myanmar' for Country of Origin, 'Do not display' for Country of Asylum, and 'Custom selection' then 'All resettlement countries' for Country of Resettlement. Then click 'Show results'. **If you are having issues, go to this link, which has these options chosen for you: https://rsq.unhcr.org/en/#w3SQ.**
 
-3. Click 'Download Data Table CSV'. **If you're having issues, you can also just open 'RSQDepartures.csv' from this repository and use that.**
+3. Click 'Download Data Table CSV'. **If you're having issues, you can also just open `RSQDepartures.csv` from this repository and use that.**
 
 4. Open up the downloaded file in Excel. What aspects of this dataset might we want to think about?
+
+~~ watch Nausheen's screen for this part ~~
 
 5. Highlight rows 12-188 (just the actual data) and copy-paste it to a new tab. Label that tab 'analysis'.
 
@@ -45,23 +47,25 @@ Technical portion of class:
 
 11. In order to see which countries accepted the most refugees, we also want our data to be organized by country. Under Field Name, drag 'Country of Resettlement' to the box under 'Columns'.
 
-12. Lastly, let's get our refugee numbers in our data: under Field Name, drag 'Total departures (persons)' to the box under 'Values'. Now, we should have a dataset that's slightly easier to understand. **To see the completed pivot table, take a look at 'RSQDepartures_analysis' in this repository.**
+12. Lastly, let's get our refugee numbers in our data: under Field Name, drag 'Total departures (persons)' to the box under 'Values'. Now, we should have a dataset that's slightly easier to understand. **To see the completed pivot table, take a look at `RSQDepartures_analysis` in this repository.**
 
 13. What we could do from here is just chart these numbers and with some explanatory text, that would be publishable. But, I want us to consider one more aspect of this situation.
 
-14. In our repo, download the file called 'UN_refugees_Admissions.xlsx' and take a look at [the PDF here](https://data2.unhcr.org/en/documents/details/50123). Chris' story mentions that "vast numbers [of the Karen people] remain in refugee camps in Thailand" -- I wanted to see if we could consider this in our numbers too. Luckily, the UN provides (some) data in PDFs, which I compiled for us beforehand.
+~~ go back to your own screen now ~~
+
+14. Take a look at [the PDF here](https://data2.unhcr.org/en/documents/details/50123). Chris' story mentions that "vast numbers [of the Karen people] remain in refugee camps in Thailand" -- I wanted to see if we could consider this in our numbers too. Luckily, the UN provides (some) data in PDFs, which I compiled for us beforehand.
+
+15. In our repo, download the file called `UN_refugees_Admissions.xlsx`. This narrowing of our data shortens our range of data to just 2013-2020, so that it remains consistent with the refugee camp data I compiled. This is the data we'll chart.
 
 	***Don't forget that documents are/have data, too!***
 
-15. 'UN_refugees_Admissions.xlsx' shortens our range of data to just 2013 to 2020, so that it remains consistent with the refugee camp data I compiled. This is the data we'll chart.
-
 16. Log in to your [datawrapper.de](https://www.datawrapper.de/) account. Click on Dashboard and then 'New Chart' at the top.
 
-17. Copy the data from 'UN_refugees_Admissions.xlsx' and paste it into the data box in step one. Follow the steps to create a chart for yourself, and take a few minutes to choose whichever preferences you'd like. But remember, your chart should be readable to the average reader!
+17. Copy the data from `UN_refugees_Admissions.xlsx` and paste it into the data box in step one. Follow the steps to create a chart for yourself, and take a few minutes to choose whichever preferences you'd like. But remember, your chart should be readable to the average reader!
 
 18. Hit publish. You've published your first chart!
 
-19. Now, let's do this programmatically.
+19. Now, let's do this programmatically. Take a look at `UN_refugees_script.py`. The lines that start with `#` are comments and explain what each chunk of code is doing. Building a chart through DataWrapper is completely possible using just a few lines of code! In a data reporting course, you'd eventually get to a point where you could make charts like these programmatically.
 
 More resources:
 ==============
